@@ -5,7 +5,12 @@
  "yomi": "わかんろうえいしゅう",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "詩歌集（朗詠集）",
+  "era": "長和2年（1013）頃",
+  "author": "藤原公任 撰",
+  "desc": "朗詠に適した漢詩句と和歌を題ごとに集めたもの。漢詩句約五百九十と和歌約二百二十首を収める。"
+ },
  "editions": [
   {
    "pid": "1913603",
